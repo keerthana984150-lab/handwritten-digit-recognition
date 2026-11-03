@@ -1,0 +1,9 @@
+streamlit>=1.35
+plotly>=5.20
+pandas
+numpy
+scikit-learn
+joblib
+pillow
+streamlit-drawable-canvas   # optional: enables the "Draw digit" tab
+# tensorflow                # optional: real CNN (otherwise an MLP stand-in is used and labelled as such)
